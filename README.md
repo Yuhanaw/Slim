@@ -4,3 +4,4 @@
 # run
 # jogging
 # yoga
+# senam
